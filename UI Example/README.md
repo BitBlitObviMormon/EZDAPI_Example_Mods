@@ -1,0 +1,2 @@
+# UI Example -- Weather Forecast App
+The documentation is currently being worked on. Tune in in a couple of days to see the finished documentation! For now, read the comments in the code to learn how to use the API.
