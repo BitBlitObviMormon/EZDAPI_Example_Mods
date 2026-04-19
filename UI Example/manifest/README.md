@@ -6,3 +6,5 @@ This is a part of a collection of mods that I have created to showcase what you 
 Check the [source code](https://github.com/BitBlitObviMormon/EZDAPI_Example_Mods/tree/main/UI%20Example)! It is well documented and should give you a general idea of how you can make your own app in this game. If you are new to modding Unity games then check out the [BepInEx](https://docs.bepinex.dev/articles/dev_guide/plugin_tutorial/index.html) docs and join [Easy Delivery Co's Discord server](https://discord.gg/cCX7fhvD)!
 
 ## Pictures
+![light snow](https://raw.githubusercontent.com/BitBlitObviMormon/EZDAPI_Example_Mods/refs/heads/main/UI%20Example/resources/light%20snow!.png)
+![weather forecast](https://raw.githubusercontent.com/BitBlitObviMormon/EZDAPI_Example_Mods/refs/heads/main/UI%20Example/resources/forecast.png)
