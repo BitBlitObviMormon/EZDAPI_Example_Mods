@@ -1,0 +1,9 @@
+{
+    "name": "Weather_Forecast",
+    "description": "A simple weather forecast app that demonstrates how to use Easy Delivery API to create a custom UI.",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "foxfoxfoxgay-EasyDeliveryAPI-1.0.0"
+    ],
+    "website_url": "https://github.com/BitBlitObviMormon/EZDAPI_Example_Mods/tree/main/UI%20Example"
+}
