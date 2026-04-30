@@ -1,0 +1,9 @@
+{
+    "name": "Bouncy_Ball",
+    "description": "A yellow ball that can be thrown around",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "foxfoxfoxgay-EasyDeliveryAPI-2.0.0"
+    ],
+    "website_url": "https://github.com/BitBlitObviMormon/EZDAPI_Example_Mods/tree/main/Bouncy%20Ball%20Item"
+}
