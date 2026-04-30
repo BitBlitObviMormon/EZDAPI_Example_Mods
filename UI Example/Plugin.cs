@@ -38,9 +38,10 @@ namespace EasyDeliveryAPI.ExampleMods
             EasyAPI.AddFile(EasyAPI.DesktopLocation.Main, weatherAppFile);
 
             /* I can't figure out how to prevent EasyAPI.AddProgram() from softlocking the title screen.
-            // Create a file for our weather game.
-            GameObject obj = new GameObject("Weather Game");
-            WeatherGame weatherGame = obj.AddComponent<WeatherGame>();
+            // Create a file for our weather game. I tried using a component also.
+            // GameObject obj = new GameObject("Weather Game");
+            // WeatherGame weatherGame = obj.AddComponent<WeatherGame>();
+            WeatherGame weatherGame = new WeatherGame();
             DesktopDotExe.File weatherGameFile = EasyAPI.InstantiateFile();
             weatherGameFile.type = DesktopDotExe.FileType.exe;
             weatherGameFile.name = "Weather Game";

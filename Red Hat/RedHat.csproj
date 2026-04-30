@@ -20,10 +20,7 @@
 
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-	<HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\Assembly-CSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="netstandard">
-      <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\netstandard.dll</HintPath>
+	    <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\UnityEngine.dll</HintPath>
@@ -33,9 +30,6 @@
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>$(EasyDeliveryPath)\EasyDeliveryCo_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="EasyDeliveryAPI.dll">
       <HintPath>../lib/EasyDeliveryAPI.dll</HintPath>

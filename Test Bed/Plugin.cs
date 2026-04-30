@@ -5,7 +5,7 @@ namespace EasyDeliveryAPI.TestBed
 {
 
     [BepInDependency("EasyDeliveryAPI", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInPlugin("EasyDeliveryAPI.TestBed", "EZDAPI Tester", "1")]
+    [BepInPlugin("EasyDeliveryAPI.TestBed", "EZDAPI Tester", "1.0.0")]
     public class TestBedPlugin : BaseUnityPlugin
     {
         static internal readonly Dictionary<string, string> Phase = new Dictionary<string, string>

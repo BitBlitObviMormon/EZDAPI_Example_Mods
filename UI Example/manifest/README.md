@@ -1,4 +1,3 @@
-# Weather Forecast App
 ## What is this?
 This is a part of a collection of mods that I have created to showcase what you can do with [Easy Delivery API](https://thunderstore.io/c/easy-delivery-co/p/foxfoxfoxgay/EasyDeliveryAPI/). It tells you the weather on the screen and has a little app that can tell you what weather might come in the future. Special thanks to [foxfoxfoxgay](https://thunderstore.io/c/easy-delivery-co/p/foxfoxfoxgay/) for making Easy Delivery API!
 
